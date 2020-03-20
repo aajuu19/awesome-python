@@ -2,6 +2,9 @@
 
 Your contributions are always welcome!
 
+## HOTFIX
+Bitte sende eine E-Mail an: lieblings_kollege@firma.com
+
 ## Guidelines
 
 * Add one link per Pull Request.
