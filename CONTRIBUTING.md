@@ -5,7 +5,7 @@ Your contributions are always welcome!
 ## HOTFIX
 Bitte sende eine E-Mail an: lieblings_kollege@firma.com
 
-## Guidelines
+## xGuidelines
 
 * Add one link per Pull Request.
     * Make sure the PR title is in the format of `Add project-name`.
